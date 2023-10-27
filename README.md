@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @shubhamsingh0303
 - 👀 I’m interested in JAVA SCRIPT,MERN ....
-- 🌱 I’m currently learning MERN,JAVA
+- 🌱 I’m currently learning MERN,JAVA,PYTHON
 - 💞️ I’m looking to collaborate on the above
 - 📫 How to reach me -email --> shubhams3396@outlook.com
 
